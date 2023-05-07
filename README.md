@@ -7,3 +7,4 @@ Pe código front-end página web-pegua ha’e código abierto, ojeguerohory oipy
 * [código tenondegua](https://github.com/xxai-art/web)
 * [Ñe’ẽ ryru tenda tuichakue javeve g̃uarã](https://github.com/xxai-art/web/tree/main/i18n)
 * [Ñe’ẽ ryru umi módulo jeikerãme g̃uarã](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Página web Kuatiahaipyre heta ñe’ẽme](https://github.com/xxai-doc)
