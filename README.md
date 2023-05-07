@@ -2,9 +2,9 @@
 
 * [Página web Kuatiahaipyre heta ñe’ẽme](https://github.com/xxai-doc)
 
-Pe código front-end página web-pegua ha’e código abierto, ojeguerohory oipytyvõ hag̃ua oñemyatyrõ hag̃ua ñembohasa
+Pe código frontend página web-pegua ha’e código abierto, ojeguerohory oipytyvõ hag̃ua oñemboheko porãve hag̃ua ñembohasa
 
-* [código tenondegua](https://github.com/xxai-art/web)
+* [Código Frontend rehegua](https://github.com/xxai-art/web)
 * [Ñe’ẽ ryru tenda tuichakue javeve g̃uarã](https://github.com/xxai-art/web/tree/main/i18n)
 * [Ñe’ẽ ryru umi módulo jeikerãme g̃uarã](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Página web Kuatiahaipyre heta ñe’ẽme](https://github.com/xxai-doc)
