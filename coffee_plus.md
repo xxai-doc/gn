@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , emoĩve peteĩ mba’ekuaarã coffeescript ñe’ẽjoaju rehegua, ehecha [coffee_plus](./coffee_plus.md) .
 
-* odeclara variable
+## odeclara variable
 
 ```
 + var1, var2
 ```
 
-* etiqueta declaración rehegua
+## etiqueta declaración rehegua
 
 `:$` ha'e ojepuru hag̃ua [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) ndive.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* importación pya’e
+## importación pya’e
 
 ```
 > zx/globals:
