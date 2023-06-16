@@ -17,14 +17,14 @@ Pe lenguaje programación tenondegua haꞌehína [@w5/coffee_plus](http://npmjs.
 
 Oñemopu’ã ko’ã 3 proyecto rehe
 
-### [@w5/mdt rehegua](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt rehegua](https://www.npmjs.com/package/@w5/mdt)
 
-Pe plantilla markdown rehegua, oguerekóva ñe’ẽpehẽtai `.mdt` , ikatu oñe’ẽ umi vore okapegua rehe peteĩ ñe’ẽjoaju ojoguáva `<+ ./coffee_plus/import.js>` -pe.
+  Ñe’ẽpehẽtai ha’e `.mdt` , ikatu reipuru ñe’ẽjoaju ojoguáva `<+ ./coffee_plus/import.js>` reñe’ẽ hag̃ua vore okapegua rehe, ha emoheñói markdown ñe’ẽpehẽtai `.md` reheve.
 
-[@w5/trmd rehegua](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd rehegua](https://www.npmjs.com/package/@w5/trmd)
 
-Markdown ñembohasa nombohasamoꞌãi umi código ha enlace, ha omoĩta caché-pe ñeꞌejoaju oñembohasáva. Oñemoambuéramo pe traduksión péro noñemoambuéi pe téxto orihinál, ojejapo jeýramo ndojeskrivimoʼãi pe traduksión oñemoambuéva.
+  Markdown ñembohasa nombohasamoꞌãi umi código ha enlace, ha omoĩta caché-pe ñeꞌejoaju oñembohasáva. Oñemoambuéramo pe traduksión péro noñemoambuéi pe téxto orihinál, ojejapo jeýramo ndojeskrivimoʼãi pe traduksión oñemoambuéva.
 
-[@w5/i18n rehegua](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n rehegua](https://www.npmjs.com/package/@w5/i18n)
 
-Umi archivo ñe’ẽ rehegua oñembohasa hag̃ua umi página web `yaml` omoheñóiva.
+  Umi archivo ñe’ẽ rehegua oñembohasa hag̃ua umi página web `yaml` omoheñóiva.
